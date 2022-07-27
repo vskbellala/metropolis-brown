@@ -13,8 +13,7 @@
 \documentclass[10pt]{beamer}
 \usetheme[progressbar=frametitle]{metropolis}
 \usepackage{appendixnumberbeamer}
-
-\usepackage{metropolisbrown}
+\usepackage{metropolisbrown} % Don't forget to load this!
 ```
 3. Enjoy your presentation!
 
